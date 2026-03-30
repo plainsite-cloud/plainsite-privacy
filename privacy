@@ -1,0 +1,162 @@
+DILLINGER
+
+Import
+
+Image
+
+Export as
+
+
+
+website_build
+
+1212 words
+7712 characters
+Default
+Privacy Policy for Plain Site
+**Last Updated: March 30, 2026
+
+Introduction
+Plain Site (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Plain Site mobile application Plain Site.
+
+By using Plain Site, you agree to the collection and use of information in accordance with this policy.
+
+Information We Collect
+Information You Provide Directly
+When you use Plain Site, you may choose to provide:
+
+Personal Information: Names, phone numbers, addresses, dates of birth, emergency contact details
+Health Information: Medical intake information, insurance details (if you choose to store them)
+Documents: Photos of ID cards, insurance cards, vaccination records, and other documents you upload
+Custom Data: Any other information you manually enter into the app
+Important: You control what information you provide. Plain Site does not require you to enter any specific information to use the app.
+
+Information Collected Automatically
+Usage Data: How you interact with the app (which features you use, when you use them)
+Device Information: Device type, operating system version, unique device identifiers
+Error Logs: Crash reports and error logs to help us improve the app
+Information We Do NOT Collect
+We do NOT access your contacts, camera, or microphone without your explicit permission
+We do NOT track your location
+We do NOT collect browsing history
+We do NOT share your data with third-party advertisers
+How We Use Your Information
+We use the information you provide to:
+
+Provide Core Functionality: Store and organize your personal information for form-filling purposes
+Cloud Sync (Optional): If you sign in with Firebase Authentication, sync your data across devices
+Improve the App: Analyze usage patterns to enhance features and fix bugs
+Customer Support: Respond to your questions and provide assistance
+Security: Protect against unauthorized access and ensure data integrity
+We will NEVER sell your personal information to third parties.
+
+How We Store Your Information
+Local Storage (Default Mode)
+By default, Plain Site stores all your data locally on your device:
+
+Data is saved using encrypted local storage
+No data leaves your device unless you explicitly choose cloud sync
+Data remains on your device even if you’re offline
+Cloud Storage (Optional)
+If you choose to enable cloud sync by signing in:
+
+Your data is stored securely in Firebase Firestore (Google Cloud Platform)
+Files are stored in Firebase Storage
+Data is encrypted in transit using industry-standard SSL/TLS
+Data is encrypted at rest on Google’s servers
+You can delete your cloud data at any time from the Settings screen
+Data Security
+We take your security seriously and implement multiple protection measures:
+
+Encryption: All data transmitted to our servers is encrypted using SSL/TLS
+Firebase Security Rules: Cloud data is protected by strict access controls
+No Plaintext Passwords: We use Firebase Authentication (no passwords stored by us)
+Regular Security Reviews: We regularly audit our security practices
+Local-First Design: Your data can stay entirely on your device if you prefer
+However, no method of electronic storage is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
+
+Data Retention
+Local Data
+Data stored locally remains on your device until you manually delete it
+Uninstalling the app will remove all local data
+Cloud Data
+Data stored in Firebase remains until you delete your account
+You can delete your account and all associated data from the Settings screen
+Deleted data is permanently removed within 30 days
+Your Rights and Choices
+You have the following rights regarding your data:
+
+Access and Portability
+Export Your Data: Use the “Backup Your Data” feature in Settings to export all your information as a JSON file
+Download: Save your backup file to your device, iCloud, or email it to yourself
+Deletion
+Delete Individual Items: Remove specific individuals, templates, or files at any time
+Clear All Local Data: Use “Clear local data” in Settings
+Delete Your Account: Use “Delete My Account” in Settings to permanently delete all data (both local and cloud)
+Control Cloud Sync
+Sign Out: Disconnect from cloud sync at any time
+Local Mode: Use the app entirely offline without creating an account
+Opt-Out of Analytics (Future)
+If we add analytics in the future, you will have the ability to opt out
+Children’s Privacy
+Plain Site is designed for use by adults to manage information about themselves and others (including children in their care, such as for daycare forms).
+
+We do NOT knowingly collect personal information from children under 13 without parental consent. If you are a parent or guardian managing information about your child, you are responsible for the information you enter.
+
+If you believe we have inadvertently collected information from a child under 13, please contact us immediately at [YOUR EMAIL].
+
+Third-Party Services
+Plain Site uses the following third-party services:
+
+Firebase (Google Cloud Platform)
+Purpose: Cloud storage and authentication (optional)
+Data Shared: Only if you enable cloud sync
+Privacy Policy: https://firebase.google.com/support/privacy
+Expo
+Purpose: App development framework
+Data Shared: Error logs and crash reports
+Privacy Policy: https://expo.dev/privacy
+We do NOT use:
+
+Third-party advertising networks
+Analytics tracking (beyond basic usage statistics)
+Social media integrations
+International Data Transfers
+If you use cloud sync, your data may be stored on servers located in the United States or other countries where Google Cloud Platform operates. By using cloud sync, you consent to the transfer of your data to these locations.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we do:
+
+We will update the “Last Updated” date at the top
+We will notify you through the app (if possible)
+Continued use of the app after changes constitutes acceptance
+We encourage you to review this Privacy Policy periodically.
+
+Contact Us
+If you have questions about this Privacy Policy or how we handle your data:
+
+Email: plainsite@techsortie.com
+App: Plain Site
+
+Your Consent
+By using Plain Site, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
+
+California Residents: Under the California Consumer Privacy Act (CCPA), you have additional rights. Contact us for more information about exercising these rights.
+
+European Users: Under GDPR, you have the right to access, rectify, erase, and port your data. Contact us to exercise these rights.
+
+Summary (Plain Language)
+What we collect: Only the information you choose to enter (names, phone numbers, addresses, documents)
+
+How we use it: To help you fill out forms faster by storing your information
+
+Where it’s stored: On your device by default, or optionally in secure cloud storage (Firebase)
+
+Who we share with: Nobody. We don’t sell or share your data.
+
+Your control: You can export or delete your data anytime
+
+Questions?: Email us at plainsite@techsortie.com
+
+This Privacy Policy was last updated on March 30, 2026 and is effective immediately.
+
